@@ -1,0 +1,14 @@
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.exe
+C:\Users\Stephanie Santos\Documents\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.deps.json
+C:\Users\Stephanie Santos\Documents\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.runtimeconfig.json
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.dll
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.pdb
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.AssemblyInfoInputs.cache
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.AssemblyInfo.cs
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.csproj.CoreCompileInputs.cache
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.dll
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\refint\SistemaCelulares.dll
+c:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.pdb
+C:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.genruntimeconfig.cache
+C:\Users\Stephanie Santos\Documents\SistemaCelulares\obj\Debug\net8.0\ref\SistemaCelulares.dll
