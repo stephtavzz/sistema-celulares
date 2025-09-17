@@ -6,6 +6,7 @@
 ## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio prático da **DIO (Digital Innovation One)** no módulo de **Programação Orientada a Objetos** da trilha **.NET**.  
+
 O objetivo é implementar um **sistema orientado a objetos** que simule o comportamento de celulares, com foco em abstração, herança e polimorfismo.
 
 ## ⚙️ Funcionalidades Implementadas
@@ -72,6 +73,3 @@ dotnet run
 **Stephanie Tavares dos Santos**  
 🔗 [LinkedIn](https://www.linkedin.com/in/stephanie-t-santos/)  
 💻 [GitHub](https://github.com/stephtavzz)  
-
-
-Este projeto foi desenvolvido para fins educacionais, como parte de um desafio da plataforma DIO, visando a prática de sintaxe básica com C# e .NET.
